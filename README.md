@@ -49,6 +49,7 @@ More layers improve performance, but the gain flattens after 5 convolutional lay
 Dataset imbalance (e.g., very few "Disgust" images) affects model accuracy.
 
 📎 References
+
 Kaggle FER2019 Dataset: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 CNN theory: https://cs231n.github.io/convolutional-networks/
